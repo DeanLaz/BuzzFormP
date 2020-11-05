@@ -2933,10 +2933,10 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
-buzzform@0.0.14:
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/buzzform/-/buzzform-0.0.14.tgz#67cd08a23b40b111544a608fd9257dcfbee0b522"
-  integrity sha512-Uq1OoskygDr9ewY8eV7tXtfxvsNFnARgYdQ7j4/C+XCpIayW081amcR75sCj4lqtVih4w2KCl1ut18OA0tAKMg==
+buzzform@0.0.16:
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/buzzform/-/buzzform-0.0.16.tgz#478331c88ca54240aacabaf0e9c1f40db53ef8eb"
+  integrity sha512-VH5Ynt2aY7c/MDq4RS970G94z1WwJYLvQ9WLj+ykvDbc1hniOzg/7SL5QZtTuqh1uXTOsIkK0ZqgAvBWeUWgkQ==
   dependencies:
     "@babel/runtime" "^7.11.2"
     "@testing-library/jest-dom" "^4.2.4"
