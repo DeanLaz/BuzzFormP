@@ -1,12 +1,4 @@
-# XForm-Server
-
-NodeJS - MongoDB
-in Dev
-
-# XForm-Client
-
-ReactJS
-In Dev
+# BuzzForm
 
 ## Summary:
 
@@ -32,7 +24,7 @@ Database: MongoDB
 
 ## Goal --> Beta 1.0
 
-- MERN React Component
+- MERN NPM React Component
 - Web Client [Minimum Styling] - Recieves an NPS score & User Feature Requests.
 - - React Web App
 - - - Axios
