@@ -2789,10 +2789,10 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
-buzzform@0.0.38:
-  version "0.0.38"
-  resolved "https://registry.yarnpkg.com/buzzform/-/buzzform-0.0.38.tgz#2f9ee4af693e0a1dc22ebb740893c93b5ed7314f"
-  integrity sha512-cLT1wHGM2/y7jT79pN+zMWgkf52Wb7wMaoe8rAEXHqkncEikB8xCwQY77chXNoyiZW+1/Jxmcde4n+qfNqL/Vw==
+buzzform@^0.0.39:
+  version "0.0.39"
+  resolved "https://registry.yarnpkg.com/buzzform/-/buzzform-0.0.39.tgz#0f75a7eb363d5e90dfd97769bf88ff1418f848be"
+  integrity sha512-degS5PDB3schDBoDcDiL5Ycc2+IiZkIFa6hEb7pR6oinfSdiSFAYqmdvGZw2iQ/BgMySBaZTXCop4gfGZ+phZg==
 
 bytes@3.0.0:
   version "3.0.0"
